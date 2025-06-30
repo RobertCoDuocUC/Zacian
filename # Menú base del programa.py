@@ -1,8 +1,6 @@
 def datos_Francisco():
 print("Mi nombre es Francisco Salas y tengo 21 años.")
 
-
-
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
  print("1. Función de integrante 1")
