@@ -14,6 +14,6 @@ while True:
  elif op == "1":
     pass
  elif op == "2":
-    def datos_Francisco():
+    datos_Francisco():
  else:
     print(" Opción inválida.")
