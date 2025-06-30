@@ -1,5 +1,5 @@
 def datos_roberto():
-    print("Mi nombre es Roberto Cornejo y tengo 25 años.")
+    print("Mi nombre es Roberto Cornejo y tengo 20 años.")
 # Menú base del programa
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
@@ -12,7 +12,7 @@ while True:
     print("Programa finalizado.")
     break
  elif op == "1":
-    pass
+    datos_roberto()
  elif op == "2":
     pass 
  else:
