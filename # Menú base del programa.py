@@ -13,7 +13,7 @@ while True:
  print("0. Salir")
  op = input("Seleccione opción: ")
  if op == "0":
-    print("Programa finalizado.")
+    input("Programa finalizado.")
     break
  elif op == "1":
     datos_roberto()
